@@ -6,3 +6,7 @@
 - sakura
 - daisy
 - ysl
+
+### sm8350 targets
+- sm8350-common
+- lisa
